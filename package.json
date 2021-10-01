@@ -1,0 +1,16 @@
+{
+  "name": "copy_notes",
+  "version": "1.0.0",
+  "description": "Read Evernotes notes and write them on Apple Notes",
+  "main": "read_note.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "José Miguel Malaca",
+  "license": "ISC",
+  "dependencies": {
+    "evernote": "^2.0.5",
+    "node-html-markdown": "^1.1.2",
+    "osa2": "^0.2.3"
+  }
+}
